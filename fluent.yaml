@@ -42,7 +42,7 @@ metadata:
         Keep_Log Off
         K8S-Logging.Parser On
         K8S-Logging.Exclude On
-    outputs: |
+    outputs.conf: |
       [OUTPUT]
         Name            azure
         Match           *
