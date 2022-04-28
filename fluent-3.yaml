@@ -1,0 +1,7 @@
+config:
+  outputs: |
+    [OUTPUT]
+        Name            azure
+        Match           *
+        Customer_ID     de1993d3-6071-4998-aa9a-f93bef6025e4
+        Shared_Key      q/B+2cY+oPi+csowF77pfi4ByMGrfDBqeHwj/MQ1sJnKD/0JV3E6vR1YIRg87FBrLd/A7NciXQt/oR4I+hYQJw==
